@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm Vandana
 
-<!--
+<p align="center">
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
+</p>
+
 **vandanacr538/vandanacr538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +19,3 @@ Here are some ideas to get you started:
   <a target="_blank" href="https://twitter.com/Vandana5713"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a target="_blank" href="https://github.com/vandanacr538"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
--->
