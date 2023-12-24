@@ -9,8 +9,8 @@
 
 <h2 align="center">Languages and tools: </h2>
 
-<div align="center" style={{display:"flex", marginRight:"10px"}}>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<div align="center" style="display:flex;margin-right:10px;">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=fff" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -27,11 +27,11 @@
 </div>
 
 <h2 align="left">How to reach me: </h2>
-<div align="center" display="flex">
+<div align="center" style="display:flex;margin-right:10px;">
   <a target="_blank" href="https://www.linkedin.com/in/vandana-c-476444191/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a target="_blank" href="mailto: vandanacr538@gmail.com>
+  <a target="_blank" href="mailto: vandanacr538@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a target="_blank" href="https://twitter.com/Vandana5713">
